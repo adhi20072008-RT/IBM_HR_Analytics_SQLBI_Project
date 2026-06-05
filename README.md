@@ -1,4 +1,4 @@
-# IBM HR Analytics Dashboard
+# IBM HR Analytics end to end SQLBI Project
 
 ## Project Overview
 
